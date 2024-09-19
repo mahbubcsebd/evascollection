@@ -1,7 +1,7 @@
 'use client';
 
 import { Suspense, lazy, useCallback, useEffect, useState } from 'react';
-import HomePreLoader from '../HomePreloader';
+import HomePreLoader from '../HomePreLoader';
 
 // Placeholder components
 const Loading = () => <div>Loading...</div>;
